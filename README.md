@@ -2,7 +2,7 @@
 
 Proposta de solução para o desafio: https://musclefreak.ba/blogs/news/muscle-freak-mozgalica
 
-Criado um game no qual o jogador guia o Bombadão no labirinto para encontrar seu alteres e sua mascara.
+Criado um game no qual o jogador guia o Bombadão no labirinto para encontrar seu halteres e sua mascara.
 
 No final é apresentado o resultado final.
 

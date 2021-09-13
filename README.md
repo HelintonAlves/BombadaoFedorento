@@ -4,8 +4,8 @@ Proposta de solução para o desafio: https://musclefreak.ba/blogs/news/muscle-f
 
 Criado um game no qual o jogador guia o Bombadão no labirinto para encontrar seu halteres e sua mascara.
 
-No final é apresentado o resultado final.
+Ao encontrar os itens é apresentado a solução proposta para o problema.
 
-Ainda com muitos bugs para resolver. Mas totalmente jogável.
+Ainda falta melhorar o game, mas já está jogável.
 
 Link para baixar o jogo: https://hacsystem.itch.io/bombado-fedorento
